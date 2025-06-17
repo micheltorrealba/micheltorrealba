@@ -32,7 +32,7 @@ After a career in filmmaking and video editing, I discovered the power of data a
 ## 📫 Let’s connect
 
 - 📄 [LinkedIn](https://www.linkedin.com/in/michel-torrealba/)
-- 📬 Reach me at: **micheltorrealbaœgmail.com**
+- 📬 Reach me at: **micheltorrealba@gmail.com**
 
 ---
 
