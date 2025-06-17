@@ -1,6 +1,6 @@
 # Hi, I'm Michel Torrealba
 
-🎬 **Filmmaker turned Data Scientist**, passionate about transforming raw data into impactful insights.  
+**Filmmaker turned Data Scientist**, passionate about transforming raw data into impactful insights.  
 📍 Based in Toronto | Open to remote opportunities.
 
 After a career in filmmaking and video editing, I discovered the power of data and transitioned into tech through the Henry Bootcamp. Today, I specialize in data analysis, storytelling with data, and machine learning.
