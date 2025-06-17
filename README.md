@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Michel Torrealba
+# Hi, I'm Michel Torrealba
 
 🎬 **Filmmaker turned Data Scientist**, passionate about transforming raw data into impactful insights.  
 📍 Based in Toronto | Open to remote opportunities.
@@ -32,7 +32,7 @@ After a career in filmmaking and video editing, I discovered the power of data a
 ## 📫 Let’s connect
 
 - 📄 [LinkedIn](https://www.linkedin.com/in/michel-torrealba/)
-- 📬 Reach me at: **your.email@example.com**
+- 📬 Reach me at: **micheltorrealbaœgmail.com**
 
 ---
 
